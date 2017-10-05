@@ -33,7 +33,6 @@ class Bfs_Graph {
 		Bfs_Graph graph = new Bfs_Graph(vertices);
 
 		while(true){
-
 			System.out.println("---------------------------------------");
 			System.out.println(" 1.Add Edge     ");
 			System.out.println(" 2.Print Graph     ");
