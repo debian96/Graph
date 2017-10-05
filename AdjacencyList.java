@@ -31,7 +31,6 @@ class Graph {
 		Graph graph = new Graph(vertices);
 
 		while(true){
-
 			System.out.println("---------------------------------------");
 			System.out.println(" 1.Add Edge     ");
 			System.out.println(" 2.Print Graph     ");
